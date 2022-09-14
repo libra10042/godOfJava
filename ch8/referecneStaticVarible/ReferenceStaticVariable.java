@@ -1,4 +1,4 @@
-package ch8;
+package ch8.referecneStaticVarible;
 
 public class ReferenceStaticVariable {
 
