@@ -1,6 +1,4 @@
-package ch14.tryCatch;
-
-import ch10.Polymorphism.Parent;
+package ch14.trycatch;
 
 public class ExceptionSample {
 
