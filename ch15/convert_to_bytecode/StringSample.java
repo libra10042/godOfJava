@@ -1,4 +1,4 @@
-package ch15.stringbytecode;
+package ch15.convert_to_bytecode;
 
 public class StringSample {
     public static void main(String[] args) {
