@@ -7,6 +7,7 @@ public class ModifyAmountThread extends Thread{
         this.calc = calc;
         this.addFlag = addFlag;
     }
+
     public void run(){
         for(int loop=0; loop<10000; loop++){
             if(addFlag){

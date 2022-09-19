@@ -12,12 +12,22 @@ public class RunSync {
         ModifyAmountThread thread1 = new ModifyAmountThread(calc, true);
         ModifyAmountThread thread2 = new ModifyAmountThread(calc, true);
 
+        CommonCalculate2 calc1 = new CommonCalculate2();
+        ModifyAmountThread thread3 = new ModifyAmountThread(calc, true);
+        ModifyAmountThread thread4 = new ModifyAmountThread(calc, true);
+
+
         thread1.start();
         thread2.start();
+        thread3.start();
+        thread4.start();
         try{
             thread1.join();
             thread2.join();
+            thread3.join();
+            thread4.join();
             System.out.println("Final value is " + calc.getAmount());
+            System.out.println("Final value is " + calc1.getAmount());
         }catch(InterruptedException e){
             e.printStackTrace();
         }
