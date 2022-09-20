@@ -3,7 +3,7 @@ package labs.immutable;
 import java.util.Date;
 
 /**
- * @see <a href="https://docs.oracle.com/en/java/">Java Dcoumentation</a>
+ * @see <a href="https://docs.oracle.com/en/java/">Immutable example</a>
  */
 public final class ImmutableClass {
     /* Integer 와 String 은 Immutable 객체로 값을 변경하는 Setter 가 없어서 값이 변하지 않는다.*/
