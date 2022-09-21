@@ -1,6 +1,6 @@
 ### God of Java (book Study 📚)
 
-<br><br>
+<br>
 
 | chapter    | keyword                                    |
 | ---------- | ---------------------------------------------- |
@@ -27,4 +27,5 @@
 <br><br>
 
 ### 참고 <br>
-[javatpoint](https://www.javatpoint.com/java-collections-unmodifiablelist-method)
+[javatpoint](https://www.javatpoint.com/java-collections-unmodifiablelist-method) / 
+[Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder)
