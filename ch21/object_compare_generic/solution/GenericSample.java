@@ -1,4 +1,4 @@
-package ch21.solution;
+package ch21.object_compare_generic.solution;
 
 public class GenericSample {
     public static void main(String[] args) {

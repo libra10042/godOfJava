@@ -1,4 +1,4 @@
-package ch21.problem;
+package ch21.object_compare_generic.problem;
 
 public class GenericSample {
 
@@ -9,14 +9,14 @@ public class GenericSample {
         sample.checkDTO(sample.checkCastingDTO());
     }
 
-    public CastingDTO checkCastingDTO(){
-        CastingDTO dto1 = new CastingDTO();
+    public ch21.object_compare_generic.problem.CastingDTO checkCastingDTO(){
+        ch21.object_compare_generic.problem.CastingDTO dto1 = new ch21.object_compare_generic.problem.CastingDTO();
         dto1.setObject(new String());
 
-        CastingDTO dto2 = new CastingDTO();
+        ch21.object_compare_generic.problem.CastingDTO dto2 = new ch21.object_compare_generic.problem.CastingDTO();
         dto2.setObject(new StringBuffer());
 
-        CastingDTO dto3 = new CastingDTO();
+        ch21.object_compare_generic.problem.CastingDTO dto3 = new ch21.object_compare_generic.problem.CastingDTO();
         dto3.setObject(new StringBuilder());
 
         String temp1 = (String) dto1.getObject();
@@ -25,7 +25,7 @@ public class GenericSample {
         return dto2;
     }
 
-    public void checkDTO(CastingDTO dto){
+    public void checkDTO(ch21.object_compare_generic.problem.CastingDTO dto){
         Object tempObject = dto.getObject();
         if(tempObject instanceof StringBuilder){
             System.out.println("StringBuilder");

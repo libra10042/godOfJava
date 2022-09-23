@@ -1,4 +1,4 @@
-package ch21.solution;
+package ch21.object_compare_generic.solution;
 
 import java.io.Serializable;
 
