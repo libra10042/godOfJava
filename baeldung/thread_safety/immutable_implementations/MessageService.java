@@ -1,4 +1,4 @@
-package baeldung.thread.immutable_implementations;
+package baeldung.thread_safety.immutable_implementations;
 
 public class MessageService {
 

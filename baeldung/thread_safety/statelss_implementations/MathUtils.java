@@ -1,4 +1,4 @@
-package baeldung.thread.statelss_implementations;
+package baeldung.thread_safety.statelss_implementations;
 
 import java.math.BigInteger;
 
