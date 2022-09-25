@@ -11,8 +11,8 @@ public class ManageObject {
     public static void main(String[] args) {
         ManageObject manager = new ManageObject();
         String fullPath = "C:/Users/Administrator/Desktop/GodOfJava/text1/text";
-        // SerialDTO dto = new SerialDTO("GodOfJavaBook", 1, true, 100);
-        // manager.saveObject(fullPath, dto);
+        SerialDTO dto = new SerialDTO("Java","GodOfJavaBook", 1, true, 100);
+        manager.saveObject(fullPath, dto);
         manager.loadObject(fullPath);
     }
     public void saveObject(String fullPath, SerialDTO dto){
