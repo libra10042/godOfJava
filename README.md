@@ -32,4 +32,5 @@
 ### 참고 <br>
 [javatpoint](https://www.javatpoint.com/java-collections-unmodifiablelist-method) / 
 [Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder) /
-[geeksforgeeks](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp)
+[geeksforgeeks](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp) /
+[baeldung](https://www.baeldung.com/java-thread-safety)
