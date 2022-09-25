@@ -24,11 +24,12 @@
 | ch25    | Runnable interface. / Thread class , DaemonThread, Daemon, Multi Thread, Synchronized, interrupt() method, notify() method, Thread Group |
 | ch26    | I/O, Intput/ Output, symbolic link, createFile(), getParent(), FileFilter, FileInputStream / ObjectInputStream  vs  FilterInputStream / OutputStream(Closeable/Flushable interface), Read / Write
 | ch27    | serializable, serialVersionUID, ObjectOutputStream ↔ ObjectInputStream, InvalidClassException, serialVersionUID, transient 예약어, Java NIO, NIO Buffer class/ Buffer method
-|
+
 
 
 <br><br>
 
 ### 참고 <br>
 [javatpoint](https://www.javatpoint.com/java-collections-unmodifiablelist-method) / 
-[Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder)
+[Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder) /
+[geeksforgeeks](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp)
