@@ -1,7 +1,5 @@
 package ch27.objectOutputStream_objectInputStream;
 
-import ch27.SerialDTO;
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
