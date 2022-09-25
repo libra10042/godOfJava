@@ -33,4 +33,5 @@
 [javatpoint](https://www.javatpoint.com/java-collections-unmodifiablelist-method) / 
 [Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder) /
 [geeksforgeeks](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp) /
-[baeldung](https://www.baeldung.com/java-thread-safety)
+[baeldung](https://www.baeldung.com/java-thread-safety) /
+[docs.oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html)
