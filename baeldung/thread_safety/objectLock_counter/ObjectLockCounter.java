@@ -5,6 +5,9 @@ public class ObjectLockCounter {
     private int counter = 0;
     private final Object lock = new Object();
 
+    // avoid using Strings for locking purpose.
+    // private static final String LOCK = "Lock";
+
     public void incrementCounter(){
         synchronized (lock) {
             counter += 1;
