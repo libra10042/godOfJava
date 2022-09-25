@@ -1,4 +1,4 @@
-package ch26.read_textFile;
+package ch26.write_textFile;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
