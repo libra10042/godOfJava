@@ -3,6 +3,7 @@ package ch27;
 import java.io.Serializable;
 
 public class SerialDTO implements Serializable {
+    private String bookType = "IT";
     private String bookName;
     private int bookOrder;
     private boolean bestSeller;
