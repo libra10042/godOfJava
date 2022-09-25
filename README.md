@@ -34,4 +34,5 @@
 [Tech Blog](https://incheol-jung.gitbook.io/docs/q-and-a/java/string-stringbuffer-stringbuilder) /
 [geeksforgeeks](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp) /
 [baeldung](https://www.baeldung.com/java-thread-safety) /
-[docs.oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html)
+[docs.oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html) /
+[docs.github](https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-concurrency-basic/src/main/java/com/baeldung/concurrent/callable/FactorialTask.java)
