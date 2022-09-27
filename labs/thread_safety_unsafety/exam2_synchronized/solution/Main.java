@@ -1,4 +1,4 @@
-package labs.thread_safety_unsafety.exam2.solution;
+package labs.thread_safety_unsafety.exam2_synchronized.solution;
 
 import java.util.concurrent.TimeUnit;
 
