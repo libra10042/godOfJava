@@ -1,4 +1,4 @@
-package labs.enum_class_method;
+package labs.enum_exam.class_method;
 
 /**
  * @see <a href="https://www.baeldung.com/a-guide-to-java-enums">A Guide to Java Enums</a>
