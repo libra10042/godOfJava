@@ -1,4 +1,4 @@
-package labs.thread_safety_unsafety;
+package labs.thread_safety_unsafety.exam1;
 /**
  * @see <a href="https://velog.io/@guswlsapdlf/Java-Thread-Safety-Unsafety">Java Thread Safety & Unsafety</a>
  */

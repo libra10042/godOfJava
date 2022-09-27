@@ -1,4 +1,4 @@
-package labs.thread_safety_unsafety;
+package labs.thread_safety_unsafety.exam1;
 
 public class ModifyAmountThread extends Thread{
     private CommonCalculate calc;
