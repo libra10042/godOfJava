@@ -1,4 +1,4 @@
-package labs.thread_safety_unsafety.synchronization.item79.observer_pattern;
+package labs.thread_safety_unsafety.synchronization.item79.observer_pattern_exam;
 
 import java.util.ArrayList;
 import java.util.List;
