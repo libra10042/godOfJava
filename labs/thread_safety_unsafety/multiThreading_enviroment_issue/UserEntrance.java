@@ -1,4 +1,4 @@
-package labs.multiThreading_enviroment_issue;
+package labs.thread_safety_unsafety.multiThreading_enviroment_issue;
 
 public class UserEntrance extends Thread{
     private final ChattingRoom chattingRoom;

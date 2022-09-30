@@ -1,6 +1,4 @@
-package labs.multiThreading_enviroment_issue;
-
-import ch10.Polymorphism.Parent;
+package labs.thread_safety_unsafety.multiThreading_enviroment_issue;
 
 /**
  * @see <a href="https://velog.io/@indongcha/Thread-Safety-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0">Multi Threading 환경에서의 Issue</a>
