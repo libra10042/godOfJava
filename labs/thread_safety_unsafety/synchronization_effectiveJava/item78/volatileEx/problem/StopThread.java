@@ -3,7 +3,7 @@ package labs.thread_safety_unsafety.synchronization.item78.volatileEx.problem;
 import java.util.concurrent.TimeUnit;
 
 public class StopThread {
-    private static volatile int nextSerialNumber = 0;
+    private static int nextSerialNumber = 0;
 
     public static int generateSerialNumber(){
         return nextSerialNumber++;
