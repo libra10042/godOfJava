@@ -10,20 +10,27 @@
 | ch4     | variable x4, GC(C++, C, JAVA, float/ double, big decimal |
 | ch5     |                  |
 | ch6     | if  vs  switch |
-| ch7     | ArrayIndexOutOfBoundsException |
+| ch7     | ArrayIndexOutOfBoundsException, 배열 |
 | ch8     | Reference type, this, static, static block, pass by value / pass by reference |
-| ch9     | Access modifier(private public, protected, default                |
-| ch10    | extends, supper, Inheritance, overriding, access modifier, casting, reference type, instance of, polymorphism |
+| ch9     | Access modifier(private public, protected, default )               |
+| ch10    | extends, supper, Inheritance, overriding, overriding access modifier, casting, reference type, instanceof, polymorphism |
 | ch11    | Deprecated, BigDecimal                |
 | ch12    | Object, equals(), hascode() |
-| ch13    | abstract   vs  interface,  final enum               |
-| ch14    | try ~ catch ~ finally, checked exception/ unuchecked exception/ error, throwable class |
+| ch13    | abstract   vs  interface,  final, enum               |
+| ch14    | try ~ catch ~ finally, checked exception/ unuchecked exception/ error, Throwable class |
 | ch15    | final, String (Serializable, Comparable, CharSequence), Stringbuilder / Stringbuffer |
-| ch19    | JDK/JRE, Java language feature, JIT Compiler ( Interpreter compiler + static compiler), HotSpot ( Server compiler, Server compiler), Heap( Young Generationm / Old Generation,Perm ), GC |
+| ch16    | Nested class, Static Nested class |
+| ch17    | @Deprecated, @Override, @SupressWarnings |
+| ch18    | 총 정리 |
+| ch19    | JDK/JRE, Java language feature, JIT Compiler ( Interpreter compiler + static compiler), HotSpot ( Server compiler, Server compiler), Heap( Young Generationm / Old Generation,Perm ), GC, Stop the world |
 | ch20    | java.lang package |
+| ch21    | wildcard |
+| ch22    | deep copy / shallow copy, List, ArrayList, Stack |
+| ch23    | Set, Queue, 로드팩터, Deque |
+| ch24    | Java map buckets, properties 속성 |
 | ch25    | Runnable interface. / Thread class , DaemonThread, Daemon, Multi Thread, Synchronized, interrupt() method, notify() method, Thread Group |
-| ch26    | I/O, Intput/ Output, symbolic link, createFile(), getParent(), FileFilter, FileInputStream / ObjectInputStream  vs  FilterInputStream / OutputStream(Closeable/Flushable interface), Read / Write
-| ch27    | serializable, serialVersionUID, ObjectOutputStream ↔ ObjectInputStream, InvalidClassException, serialVersionUID, transient 예약어, Java NIO, NIO Buffer class/ Buffer method
+| ch26    | I/O, Intput/ Output, symbolic link, createFile(), getParent(), FileFilter, FileInputStream / ObjectInputStream  vs  FilterInputStream / OutputStream(Closeable/Flushable interface), Read / Write |
+| ch27    | serializable, serialVersionUID, ObjectOutputStream / ObjectInputStream, InvalidClassException, serialVersionUID, transient 예약어, Java NIO, NIO Buffer class/ Buffer method
 
 
 
